@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-Laptop">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="Laptop" clip-path="url(#clip-Laptop)">
+    <g id="laptop-screen" transform="translate(10.655 -34.114)">
+      <g id="Group_4927" data-name="Group 4927" transform="translate(12.757 76.817)">
+        <path id="Path_11815" data-name="Path 11815" d="M183.953,84.539V177.16H122.845l-2.538,9.877H94.045l-2.538-9.877H30.4V84.539a7.737,7.737,0,0,1,7.722-7.722H176.229a7.713,7.713,0,0,1,7.724,7.7C183.953,84.526,183.953,84.532,183.953,84.539Z" transform="translate(-30.4 -76.817)" fill="#62667c"/>
+        <path id="Path_11816" data-name="Path 11816" d="M93.3,319.657H30.4v-3.73H91.508Z" transform="translate(-30.4 -215.583)" fill="#62667c"/>
+        <path id="Path_11817" data-name="Path 11817" d="M309.319,315.927v3.73h-62.9l1.791-3.73Z" transform="translate(-155.767 -215.583)" fill="#62667c"/>
+      </g>
+      <path id="Path_11818" data-name="Path 11818" d="M187,97.242V180.2H49.347V97.242a1.5,1.5,0,0,1,1.5-1.5H185.5A1.5,1.5,0,0,1,187,97.242Z" transform="translate(-28.638 -10.981)" fill="#69b0ee"/>
+      <path id="Path_11819" data-name="Path 11819" d="M179.068,318.427v2.461a9.29,9.29,0,0,1-9.29,9.29H9.29A9.291,9.291,0,0,1,0,320.888v-2.461a2.5,2.5,0,0,1,2.5-2.5H73.865l2.538,5.335h26.262l2.538-5.335h71.365a2.5,2.5,0,0,1,2.5,2.5Z" transform="translate(0 -138.767)" fill="#525666"/>
+      <g id="Group_4928" data-name="Group 4928" transform="translate(43.062 84.757)" opacity="0.5">
+        <path id="Path_11820" data-name="Path 11820" d="M106.748,180.2h-4.136l61.145-84.459h4.136Z" transform="translate(-102.612 -95.738)" fill="#eeefee"/>
+        <path id="Path_11821" data-name="Path 11821" d="M155.551,180.2H139.038l61.145-84.459H216.7Z" transform="translate(-123.752 -95.738)" fill="#eeefee"/>
+      </g>
+    </g>
+  </g>
+</svg>
